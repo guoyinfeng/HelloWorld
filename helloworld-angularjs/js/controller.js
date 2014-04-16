@@ -1,3 +1,3 @@
 function HelloCtrl($scope){
-	$scope.greeting = {text: 'hello'};
+	$scope.greeting = {text: 'HELLO'};
 }
